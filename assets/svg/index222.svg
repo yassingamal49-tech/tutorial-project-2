@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 400 400"
+     width="110"
+     height="110"
+     style="position:absolute; top:10px; left:10px;">
+
+  <defs>
+    <linearGradient id="ygGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7ec8e3"/>
+      <stop offset="100%" stop-color="#2a7de1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- YG -->
+  <text x="200"
+        y="180"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="140"
+        font-weight="bold"
+        fill="url(#ygGradient)">
+        YG
+  </text>
+
+  <!-- 15 -->
+  <text x="200"
+        y="300"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="120"
+        font-weight="bold"
+        fill="#7a848c">
+        15
+  </text>
+
+</svg>
